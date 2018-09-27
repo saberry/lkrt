@@ -1,0 +1,10 @@
+Package: lkrt
+Type: Package
+Title: Gives Likert response options labels to items
+Version: 0.5
+Date: 2014-12-09
+Author: Seth Berry, Michael Clark
+Maintainer: If you have an issue, you can get a tissue from <seth.berry@nd.edu>
+Description: The functions can take column names and automatically give labels to the values.
+Requires: dplyr
+License: Use it if you like it.
